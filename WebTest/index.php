@@ -24,3 +24,4 @@ if (!$tblCnt) {
 } else {
     echo "There are $tblCnt tables<br />\n";
 }
+var_dump($dbhost);
